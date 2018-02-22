@@ -1,5 +1,5 @@
 // Faya-Nugget Sample Code 
-// Date: 2015/1/26
+// Date: 2015/01/26
 // Module Name: BCD Switch
 // Module Number: #ngt-di-bcd-1A
 // Description: She the status of BCD switch in serial monitor
