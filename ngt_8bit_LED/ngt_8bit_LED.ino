@@ -1,5 +1,5 @@
 // Faya-Nugget Sample Code
-// Date: 2015/1/26
+// Date: 2015/01/26
 // Module Name: 8-bit Red LED
 // Module Number: #ngt-dp-led8r-1A
 // Description: Make a shift-left running LED.
