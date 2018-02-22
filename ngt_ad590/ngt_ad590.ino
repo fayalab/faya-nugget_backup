@@ -1,5 +1,5 @@
 // Faya-Nugget Sample Code 
-// Date: 2015/1/27
+// Date: 2015/01/27
 // Module Name: AD-590 Temperature Sensor
 // Module Number: #ngt-ss-ad590-1A
 // Description: Show current temperature in serial monitor
