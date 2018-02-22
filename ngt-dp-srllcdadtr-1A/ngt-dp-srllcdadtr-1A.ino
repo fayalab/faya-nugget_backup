@@ -1,7 +1,7 @@
 /* Test Code */
 
 // Faya-Nugget Sample Code 
-// Date: 2015/4/28
+// Date: 2015/04/28
 // Module Name: Serial 4-digiht 7-segment Display
 // Module Number: #ngt-dp-4d7segsrl-1A
 // Description: 傳送串列式訊號至LCD顯示器，顯示資訊.  
