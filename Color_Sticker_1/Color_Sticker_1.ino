@@ -5,7 +5,7 @@
 // 目標: (1) 跑馬燈依序顯示紅橙黃綠青藍靛紫8種顏色
 
 // 接線: Arduino ==> faya模組
-//            D2 ==> 串列全彩LED_Din
+///            D2 ==> 串列全彩LED_Din
 
 #include <Adafruit_NeoPixel.h>
 
