@@ -1,5 +1,5 @@
 // Faya-Nugget Sample Code 
-// Date: 2015/1/26
+// Date: 2015/01/26
 // Module Name: JoyStick Switch
 // Module Number: #ngt-ai-jystksw-1A
 // Description: Detect the motrion of the joystick and show the results in serial monitor.
