@@ -1,5 +1,5 @@
 // Faya-Nugget Sample Code 
-// Date: 2015/1/26
+// Date: 2015/01/26
 // Module Name: Hall Sensor
 // Module Number: #ngt-ss-hall-1A
 // Description: Determine the magnetic pole of the Hall sensor and show the results in serial monitor.
