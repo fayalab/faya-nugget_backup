@@ -1,7 +1,7 @@
 /* Test Code  */
 
 // Faya-Nugget Sample Code 
-// Date: 2015/4/30
+// Date: 2015/04/30
 // Module Name: Serial 4-digiht 7-segment Display
 // Module Number: #ngt-dp-4d7segsrl-1A
 // Description: 傳送串列式訊號控制4位數7段顯示器顯示的數字. 
