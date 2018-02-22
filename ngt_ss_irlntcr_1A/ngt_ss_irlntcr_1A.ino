@@ -1,7 +1,7 @@
 /*ngt-ss-irlntcr-1A*/
 
 #define SigPin 3      /*  IR訊號發射腳位 */
-#define IRPin5 A0     /*  IR Line Read 腳位設定  */
+#define IRPin5 A0     /*  IR Line Read 腳位設定 */
 #define IRPin4 A1
 #define IRPin3 A2
 #define IRPin2 A3
