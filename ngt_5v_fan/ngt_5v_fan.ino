@@ -1,5 +1,5 @@
 // Faya-Nugget Sample Code 
-// Date: 2015/1/27
+// Date: 2015/01/27
 // Module Name:5V DC Fan
 // Module Number: #ngt-mt-fan5v-1A
 // Description: Use serial monitor to turn ON/OFF of the fan.
