@@ -1,5 +1,5 @@
 // Faya-Nugget Sample Code 
-// Date: 2015/1/27
+// Date: 2015/01/27
 // Module Name: Electromagnetic Buzzer
 // Module Number: #ngt-mm-embuzr-1A
 // Description:Use Serial-Monutor to control Electromagnetic Buzzer.
