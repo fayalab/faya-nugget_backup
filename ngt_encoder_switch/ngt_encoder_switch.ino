@@ -1,5 +1,5 @@
 // Faya-Nugget Sample Code 
-// Date: 2015/1/27
+// Date: 2015/01/27
 // Module Name: Encoder Switch
 // Module Number: #ngt-di-encdrsw-1A
 // Description:Use encoder switch to count the number and show in serail monitor
