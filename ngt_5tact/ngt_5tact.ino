@@ -1,5 +1,5 @@
 // Faya-Nugget Sample Code 
-// Date: 2015/1/27
+// Date: 2015/01/27
 // Module Name: 5-bit TACT Switch
 // Module Number: #ngt-di-TACT5-1A
 // Description: Show the status of TACT switch in serial monitor
