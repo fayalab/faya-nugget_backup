@@ -1,4 +1,4 @@
-// 2017/9/4
+// 2017/09/04
 // Faya-Nugget 範例程式 (TwoAxisServo_1.ino)
 // 單元: 模組介紹:faya雙軸伺服馬達模組
 // 網址: https://fayalab.blogspot.com/2017/08/2axisServo.html
