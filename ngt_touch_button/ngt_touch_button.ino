@@ -1,5 +1,5 @@
 // Faya-Nugget Sample Code 
-// Date: 2015/1/27
+// Date: 2015/01/27
 // Module Name: Touch Button
 // Module Number: #ngt-di-tchbtn-1A
 // Description:Using touch button to count up and down in serial monitor.  
