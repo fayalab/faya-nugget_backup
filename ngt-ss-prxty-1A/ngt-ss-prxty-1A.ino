@@ -1,6 +1,6 @@
 /* Test Code */
 // Faya-Nugget Sample Code 
-// Date: 2015/4/29
+// Date: 2015/04/29
 // Module Name: Proximity Sensor
 // Module Number: #ngt-ss-prxty-1A
 // Description: . 
