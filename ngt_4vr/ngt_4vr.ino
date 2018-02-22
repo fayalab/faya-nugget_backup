@@ -1,5 +1,5 @@
 // Faya-Nugget Sample Code 
-// Date: 2015/1/26
+// Date: 2015/01/26
 // Module Name: Variable Resistor
 // Module Number: #ngt-ot-vr4-1A
 // Description: Detect 4 sets of resistance values from variable resistor and show in serial monitor.  
