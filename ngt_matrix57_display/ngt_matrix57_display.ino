@@ -1,5 +1,5 @@
 // Faya-Nugget Sample Code 
-// Date: 2015/1/28
+// Date: 2015/01/28
 // Module Name: 5x7 Matrix Display
 // Module Number: #ngt-dp-matrix57-1A
 // Description:Prtint a letter "R" on 5x7 dot matrix display.
