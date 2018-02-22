@@ -1,5 +1,5 @@
 // Faya-Nugget Sample Code 
-// Date: 2015/1/27
+// Date: 2015/01/27
 // Module Name: Light Sensor
 // Module Number: #ngt-ss-cds-1A
 // Description: Detect light maginitude and show the result in serial monitor.  
