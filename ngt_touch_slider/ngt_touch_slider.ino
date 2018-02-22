@@ -1,5 +1,5 @@
 // Faya-Nugget Sample Code 
-// Date: 2015/1/27
+// Date: 2015/01/27
 // Module Name: Touch Slider
 // Module Number: #ngt-di-tchsdr8-1A
 // Description: Detect the touch button and show its corresponging diatonic scale is serial monitor
