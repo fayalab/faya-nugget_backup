@@ -1,5 +1,5 @@
 // Faya-Nugget Sample Code 
-// Date: 2015/4/28
+// Date: 2015/04/28
 // Module Name: Humidity & Temperature Sensor
 // Module Number: #ngt-ss-dht11-1A
 // Description: 讀取溫濕度感測器的溫度與濕度訊號,並將訊號轉換後顯示在Serial Monitor中. 
