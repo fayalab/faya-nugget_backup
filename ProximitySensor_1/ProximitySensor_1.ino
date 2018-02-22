@@ -26,5 +26,3 @@ void loop() {
   else
      digitalWrite(LED,LOW);   //使Arduino內建的LED為OFF
 }
-
-
