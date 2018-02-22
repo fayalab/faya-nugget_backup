@@ -1,5 +1,5 @@
 // Faya-Nugget Sample Code 
-// Date: 2015/1/28
+// Date: 2015/01/28
 // Module Name: 5.625deg Step Motor
 // Module Number: #ngt-mt-step5.625d-1A
 // Description: Use arduino code to control the speed and direction of step motor.  
