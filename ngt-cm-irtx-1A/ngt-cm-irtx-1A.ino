@@ -1,5 +1,5 @@
 // Faya-Nugget Sample Code 
-// Date: 2015/4/28
+// Date: 2015/04/28
 // Module Name: IR Transmitter
 // Module Number: #ngt-cm-irtx-1A
 // Description: 需搭配IR Receiver測試.
