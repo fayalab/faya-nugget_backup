@@ -1,5 +1,5 @@
 // Faya-Nugget Sample Code 
-// Date: 2015/1/28
+// Date: 2015/01/28
 // Module Name: 3V DC Motor
 // Module Number: #ngt-mt-dc3v-1A
 // Description: Using Arduino code to control DC motor.
