@@ -1,5 +1,5 @@
 // Faya-Nugget Sample Code 
-// Date: 2015/1/27
+// Date: 2015/01/27
 // Module Name: Toggle Switch
 // Module Number: #ngt-di-toggle3-1A
 // Description: Use toggle switch to control a 24-hour timer in serial monitor.  
