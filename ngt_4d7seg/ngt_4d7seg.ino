@@ -1,5 +1,5 @@
 // Faya-Nugget Sample Code 
-// Date: 2015/1/28
+// Date: 2015/01/28
 // Module Name: 4-digit 7-segment Display
 // Module Number: #ngt-dp-4d7seg-1A
 // Description: Show a number on 4-digit 7-segment display
