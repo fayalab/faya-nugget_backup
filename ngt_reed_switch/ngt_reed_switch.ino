@@ -1,5 +1,5 @@
 // Faya-Nugget Sample Code 
-// Date: 2015/1/26
+// Date: 2015/01/26
 // Module Name: Reed Switch
 // Module Number: #ngt-ss-rdswtch-1A
 // Description: Show the status of reed switch in serial monitor
