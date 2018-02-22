@@ -1,5 +1,5 @@
 // Faya-Nugget Sample Code 
-// Date: 2015/1/26
+// Date: 2015/01/26
 // Module Name: Slide Potentiometer
 // Module Number: #ngt-ot-sldvr-1A
 // Description: Detect the resistance value of slide potentiometer (0~10K) and show in series monitor.  
