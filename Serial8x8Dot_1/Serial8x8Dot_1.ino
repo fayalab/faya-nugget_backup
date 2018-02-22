@@ -34,7 +34,7 @@ void setup() {
 }
 
 void loop() {
-   }
+}
 
 void show_heart()                   //顯示愛心副程式
 {
