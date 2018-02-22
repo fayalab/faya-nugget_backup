@@ -1,5 +1,5 @@
 // Faya-Nugget Sample Code 
-// Date: 2015/1/27
+// Date: 2015/01/27
 // Module Name: RGB LED
 // Module Number: #ngt-dp-rgb-1A
 // Description: Quick RGB light up demonstraion
