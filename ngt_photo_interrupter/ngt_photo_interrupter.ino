@@ -1,5 +1,5 @@
 // Faya-Nugget Sample Code 
-// Date: 2015/1/26
+// Date: 2015/01/26
 // Module Name: Photo Interrupter
 // Module Number: #ngt-ss-photointr-1A
 // Description: Detect the status of Photo Interrupter and show the results in serial monitor
