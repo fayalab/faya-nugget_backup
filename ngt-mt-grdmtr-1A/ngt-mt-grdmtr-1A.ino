@@ -1,5 +1,5 @@
 // Faya-Nugget Sample Code 
-// Date: 2015/4/28
+// Date: 2015/04/28
 // Module Name: Geared Motor
 // Module Number: #ngt-mt-grdmtr-1A
 // Description: 用Arduino輸出3組不同的訊號,控制減速馬達的轉速以及方向. 
