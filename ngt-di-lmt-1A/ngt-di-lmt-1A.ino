@@ -1,5 +1,5 @@
 // Faya-Nugget Sample Code 
-// Date: 2015/4/28
+// Date: 2015/04/28
 // Module Name: Limit Switch
 // Module Number: #ngt-di-lmt-1A
 // Description: 讀取微動開關的狀態,延長計時器倒數的時間,並透過Serial Monitor顯示. 
